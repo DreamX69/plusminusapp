@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plusminusapp/static/css/main.ff112270.css",
+    "main.js": "/plusminusapp/static/js/main.9e504060.js",
+    "static/js/787.ef8cdecb.chunk.js": "/plusminusapp/static/js/787.ef8cdecb.chunk.js",
+    "index.html": "/plusminusapp/index.html",
+    "main.ff112270.css.map": "/plusminusapp/static/css/main.ff112270.css.map",
+    "main.9e504060.js.map": "/plusminusapp/static/js/main.9e504060.js.map",
+    "787.ef8cdecb.chunk.js.map": "/plusminusapp/static/js/787.ef8cdecb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff112270.css",
+    "static/js/main.9e504060.js"
+  ]
+}
